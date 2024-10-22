@@ -7,7 +7,7 @@
 <h2>Features</h2>
 <table>
 <tr>
-<th>MatX Free</th>
+<th>Hearts and Minds</th>
 
 </tr>
 <tr>
@@ -72,67 +72,7 @@
 </ul>
 </td>
 <td valign="top">
-<ul>
-  <li>All features of Matx free +</li>
-  <li>Firebase authentication</li>
-  <li>Auth0 authentication</li>
-  <li>Horizontal navigation</li>
-  <li>Pages
-    <ul>
-        <li>Customer List</li>
-        <li>Customer View/Add/Edit</li>
-        <li>Product List</li>
-        <li>Customer View/Add/Edit</li>
-        <li>Order List</li>
-        <li>Order View/Add/Edit</li>
-        <li>Help center</li>
-        <li>FAQ</li>
-        <li>Pricings</li>
-        <li>User List/Grid/Row</li>
-    </ul>
 
-  </li>
-  <li>Forms
-    <ul>
-      <li>Order form</li>
-      <li>Invoice form</li>
-      <li>Property listing form</li>
-      <li>Single upload</li>
-      <li>Multiple upload</li>
-      <li>Wizard</li>
-    </ul>
-  </li>
-  <li>Working Apps
-    <ul>
-      <li>CRUD table</li>
-      <li>Shop/eCommerce</li>
-      <li>Scrum board</li>
-      <li>Invoice builder</li>
-      <li>Event calendar</li>
-      <li>Chat</li>
-      <li>Inbox</li>
-      <li>Todo</li>
-    </ul>
-  </li>
-  <li>Lists
-    <ul>
-      <li>Row/Grid List</li>
-      <li>Infinite scroll list</li>
-    </ul>
-  </li>
-  <li>Charts
-    <ul>
-      <li>eChart</li>
-      <li>Rechart</li>
-      <li>Victory chart</li>
-      <li>React vis</li>
-    </ul>
-  </li>
-  <li>Account setting</li>
-  <li>User profile</li>
-  <li>6 month support</li>
-
-</ul>
 </td>
 </tr>
 </table>
