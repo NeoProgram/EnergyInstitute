@@ -8,16 +8,14 @@
 <table>
 <tr>
 <th>MatX Free</th>
-<th>MatX Pro</th>
+
 </tr>
 <tr>
 <td>
-<a href="https://matx-react-free.netlify.app/">Live Preview</a> <br>
-<a href="https://ui-lib.com/downloads/matx-react-dashboard/">Download MatX</a>
+<a href="http://localhost:3000/dashboard/default">Live Preview</a> <br>
+
 </td>
 <td>
-<a href="http://matx-react.ui-lib.com/">Live Preview</a> <br>
-<a href="https://ui-lib.com/downloads/matx-pro-react-admin/">Get MatX Pro</a>
 </td>
 </tr>
 <tr>
