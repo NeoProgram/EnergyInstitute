@@ -2,7 +2,7 @@
 
 <a href="http://localhost:3000/dashboard/default"><img alt="Matx React Admin" src="https://matrixtroncode.com/images/homepage.PNG" /></a>
 
-<p>MatX is a full-featured React Material UI Admin Dashboard template. MatX is built with React, Redux & Material UI We implemented all the features you might need to start a new Web application. The free version includes all Material UI components, Form elements, and validation, JWT authentication, Sign in, sign up pages,  Vertical navigation, Lazy loading, Code splitting.</p>
+<p>Hearts and Minds is a suite of tools – booklets, videos and other supporting materials – to help improve the safety culture of organisations.  The EI publishes the toolkit, provides access to training on how to use it, and has a network of independent consultants based globally who can help support your organisation’s cultural journey.</p>
 
 <h2>Features</h2>
 <table>
